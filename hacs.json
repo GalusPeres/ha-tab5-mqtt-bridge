@@ -1,0 +1,6 @@
+{
+  "name": "Tab5 LVGL MQTT Bridge",
+  "render_readme": true,
+  "domains": ["tab5_lvgl"],
+  "homeassistant": "2025.11.0"
+}
